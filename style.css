@@ -1,0 +1,58 @@
+html{ 
+    font-size: 100;
+    box-sizing: border-box;
+    color: #ffffff;
+
+    
+}
+body{
+    background-color: #5e17eb;
+    background-color: #ffffff; 
+    background: linear-gradient(to bottom, #f7dcc4 0%, #d0d3ec 100%);
+    font-family: 'Monsterrat', sans-serif;
+    /*for a seamless color height, using viewpoint length*/
+    min-height: 100vh;
+
+}
+
+h1{ 
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: blue;
+}
+
+h2{
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: blue;
+
+}
+
+
+a{
+    font-weight: bold;
+    display: block;
+    border: 2px solid;
+    font-size: 0.85rem;
+    padding: 10px 20px; 
+    max-width: 300px;
+    margin: 0 auto 15px auto;
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    background-color: #ffffff
+}
+
+
+
+
+.channels{
+    display:
+
+    a { 
+        flex: 1; 
+    }
